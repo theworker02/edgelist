@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/edgelist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Edge color list values and contrast-safe presentation helpers.",
+  "bin": {
+    "edgelist": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/edgelist.git"
+  },
+  "homepage": "https://theworker02.github.io/edgelist/",
+  "keywords": [
+    "edge",
+    "list",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
